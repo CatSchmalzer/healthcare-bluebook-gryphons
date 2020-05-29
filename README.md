@@ -27,3 +27,16 @@ https://www.huduser.gov/portal/datasets/usps_crosswalk.html
 #### Other
 
 Data.CMS.gov
+
+#### Charles Lindquist presentation
+
+https://drive.google.com/file/d/1o6yBhoNa08q0X_we6l4VLDuGkdmu7OUX/view?usp=sharing
+
+Goals Option 3
+What procedures could be reasonably associated with each individual Provider Type?
+	- Filters for Physician/Other Supplier
+		Entity Type = I
+		Place of Service = F and/or O
+	- What is the normal ‘basket’ of procedures for each Provider Type?
+Which procedure codes drive the most revenue for each Professional Provider Types?
+	- Exclude office visits
